@@ -1,0 +1,9 @@
+unsloth
+torch
+transformers
+accelerate
+bitsandbytes
+timm
+einops
+gradio
+datasets
